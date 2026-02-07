@@ -17,5 +17,5 @@ Fuku Tea closing on August...
 
 <!--* [FAQ](https://www.skyzh.dev)-->
 * [About Me](https://xiaokunliu01.github.io/)
-* [Curriculum Vitae](https://skyzh.github.io/files/cv.pdf)
+* [Curriculum Vitae](https://xiaokunliu01.github.io/assets/files/curriculum_vitae.pdf)
 <!--* [Blog](https://www.skyzh.dev/blog)-->
