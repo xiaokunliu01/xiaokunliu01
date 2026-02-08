@@ -1,4 +1,4 @@
-Hi, I'm Xiaokun Liu, a postdoctoral researcher at the Beijing Institute of Genomics (BIG), Chinese Academy of Sciences (CAS) / National Genomics Data Center (NGDC).
+Hi, I'm Xiaokun Liu.
 
 <!--
 Personal project highlights:
